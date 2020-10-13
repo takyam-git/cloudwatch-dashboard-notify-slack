@@ -1,0 +1,21 @@
+{
+  "widgets": [
+    {
+      "type": "metric",
+      "x": 0,
+      "y": 6,
+      "width": 12,
+      "height": 6,
+      "properties": {
+        "view": "timeSeries",
+        "stacked": false,
+        "metrics": [
+          ["***"]
+        ],
+        "region": "ap-northeast-1",
+        "title": "*******",
+        "period": 300
+      }
+    }
+  ]
+}
